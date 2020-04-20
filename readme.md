@@ -16,6 +16,7 @@ Simple client side form validation. Check required, length, email and password m
 ## Steps to execute this calculator:
 - Download the entire code 
 - Open up the index.html.
+- [View Live Form](https://anthonys1760.github.io/Form-Validator/)
 
 ## Technologies used: 
 - HTML
